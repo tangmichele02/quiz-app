@@ -1,0 +1,42 @@
+export const data = [
+    {
+        question: "When was Pomona College founded?",
+        option1: "1874",
+        option2: "1882",
+        option3: "1887",
+        option4: "1893",
+        ans: 3,
+    },
+    {
+        question: "How many majors are there at Pomona College?",
+        option1: "42",
+        option2: "48",
+        option3: "54",
+        option4: "60",
+        ans: 2,
+    },
+    {
+        question: "How many courses are there at the Claremont Colleges?",
+        option1: "2,200",
+        option2: "2,700",
+        option3: "3,200",
+        option4: "3,700",
+        ans: 2,
+    },
+    {
+        question: "How many residence halls are there at Pomona College?",
+        option1: "9",
+        option2: "11",
+        option3: "14",
+        option4: "17",
+        ans: 3,
+    },
+    {
+        question: "What percent of students at Pomona are student athletes?",
+        option1: "10",
+        option2: "20",
+        option3: "30",
+        option4: "40",
+        ans: 2,
+    },
+]
